@@ -1,2 +1,2 @@
 # World-Bank-Region-Analysis
-Conducting an analysis utilizing data from the World Bank, Sub Saharan Africa
+Conducting an analysis utilizing data from the World Bank, Sub Saharan Africa. The main deliverables in this task were to conduct an exploratory data analysis using Python, develop a strategy for missing values and potential outliers, and give a presentation on the findings. More specifically, analysis was conducted through specificity in looking at certain countires, their uniqueness and their strongsuits.
